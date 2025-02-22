@@ -1,7 +1,3 @@
-Here’s an engaging and interactive **README** for your **30 Days of JavaScript** journey! 🚀  
-
-Let me know if you want any tweaks!  
-
 ---
 
 ### **🚀 30 Days of JavaScript – My Journey**  
